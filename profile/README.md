@@ -11,29 +11,12 @@
 ## 🌟 **À propos de nous**
 Fondé par **[Axel Lalaut](https://bento.me/axella)**, **[Noah Luccin](https://bento.me/noahl)** et **Tristan Garcia**, Studio3L allie **passion pour le jeu vidéo** et **expertise technique** pour proposer :
 - Des **jeux indépendants** (bientôt disponibles !).
-- Une **plateforme de sondages et retours utilisateurs** pour les développeurs ([en savoir plus](#-plateforme-de-sondages)).
+- Une **plateforme de sondages et retours utilisateurs** pour les développeurs.
 - Un **écosystème communautaire** (bêta-tests, programme d'influenceurs, etc.).
 
 🔹 **Inspiration** : Nous nous inspirons de studios comme [Team17](https://www.team17.com/) pour allier qualité et accessibilité.
 
 ---
-
-## 🎮 **Nos Projets**
-
-### 📊 **Plateforme de Sondages & Retours Utilisateurs**
-Un outil conçu pour les développeurs afin de :
-- **Collecter des retours** via des formulaires sécurisés (CAPTCHA intégré).
-- **Automatiser les notifications** avec des **webhooks Discord**.
-- **Centraliser les données** dans un **tableau de bord** (statistiques, téléchargements, revenus, etc.).
-
-#### ✨ **Fonctionnalités clés**
-| Fonctionnalité               | Description                                                                 |
-|------------------------------|-----------------------------------------------------------------------------|
-| **Validation CAPTCHA**        | Protection contre le spam pour des soumissions propres.                   |
-| **Webhooks Discord**         | Notifications instantanées dans vos serveurs Discord.                     |
-| **Formulaires multi-étapes** | Flux de travail complexes avec validation et suivi de progression.       |
-| **Dashboard centralisé**     | Gestion des formulaires, réponses utilisateurs et analytics.              |
-| **Intégration développeurs** | API et outils pour publier des mises à jour ou générer des clés de jeu.   |
 
 #### 🛠 **Technologies utilisées**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
