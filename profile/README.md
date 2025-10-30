@@ -21,7 +21,7 @@ Fondé par **[Axel Lalaut](https://bento.me/axella)**, **[Noah Luccin](https://b
 ## 🎮 **Nos Projets**
 
 ### 📊 **Plateforme de Sondages & Retours Utilisateurs**
-Un outil **open-source** (partiellement) conçu pour les développeurs afin de :
+Un outil conçu pour les développeurs afin de :
 - **Collecter des retours** via des formulaires sécurisés (CAPTCHA intégré).
 - **Automatiser les notifications** avec des **webhooks Discord**.
 - **Centraliser les données** dans un **tableau de bord** (statistiques, téléchargements, revenus, etc.).
